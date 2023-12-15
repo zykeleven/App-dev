@@ -1,5 +1,10 @@
-# App-dev
-My first repository
-	# Fast and Furious 
-## Fast and Furious: Tokyo Drift
-### Fast and Furious 5
+# Movie: <link>Fast and Furious</link>
+
+## Genres
+- Action
+- Race Cars
+- Crime
+
+### Main Characters
+1. <link>Dominic Torreto</link> (played by <link>Vin Diesel</link>)
+2. <link>Brian O'Connor</link> (played by <link>Paul Walker</link>)
